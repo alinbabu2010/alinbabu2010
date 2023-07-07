@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Alin babu</h1>
-<h3 align="left">Mobile app developer with expertise in Android and Flutter development.<br>Mobile app developer at QBurst.</h3>
+<h3 align="left">Mobile app developer with expertise in Android and Flutter development.<br>Working as mobile app developer at QBurst.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alinbabu2010&label=Profile%20views&color=0e75b6&style=flat" alt="alinbabu2010" /> </p>
 
